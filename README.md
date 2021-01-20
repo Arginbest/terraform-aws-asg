@@ -1,5 +1,5 @@
-# A Terraform module for creating an Auto-Scaling Group and a launch configuration for it, 
-# for use with an Elastic Load Balancer. Add this module and Change following variables:
+### A Terraform module for creating an Auto-Scaling Group and a launch configuration for it, 
+### for use with an Elastic Load Balancer. Add this module and Change following variables:
 
 ```
 module "wordpress-oregon" {
